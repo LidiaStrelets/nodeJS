@@ -6,7 +6,10 @@
   "scripts": {
     "start": "nodemon index",
     "task": "nodemon task.js",
-    "index1": "nodemon index-1.js"
+    "index1": "nodemon index-1.js",
+    "events": "nodemon events.js",
+    "stream": "nodemon streams.js",
+    "http": "nodemon http.js"
   },
   "repository": {
     "type": "git",
